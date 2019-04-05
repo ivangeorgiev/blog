@@ -1,7 +1,7 @@
 name: Ivan Georgiev's Blog
 title: Ivan Georgiev's Blog
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+#permalink: /blog/:year/:month/:day/:title
 theme: minima
 #theme: minima
 show_downloads: false
