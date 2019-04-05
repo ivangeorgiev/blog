@@ -1,6 +1,9 @@
 ---
 title: "Benchmark Disk IO Speed Using dd"
 date: 2019-04-05
+links:
+  - title: "Disk Speed Test (Read/Write): HDD, SSD Performance in Linux"
+    url: "https://www.shellhacks.com/disk-speed-test-read-write-hdd-ssd-perfomance-linux/"
 ---
 
 
