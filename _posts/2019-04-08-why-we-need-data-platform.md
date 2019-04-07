@@ -1,16 +1,21 @@
 ---
 title: "Why Do We Need A Data Platform"
-date: 2019-04-06
+date: 2019-04-08
 typora-root-url: ..\
 ---
 
 
 
+Some overview on the Enterprise Data Platform was given in the previous post [What is a data platform]({{ site.baseurl }}{% post_url 2019-04-06-what-is-data-platform %})?
+
 ## Data Platform Miss-Understanding
 
 - Organizations *Need to Build* Data Platform
   - This statement implies that organizations need to build some asset. The Data Platform (Foundation) is Architectural artefact. It is not built. It is designed. Platform components are created/instantiated from the platform when needed by a particular solution. Created components can than be reused in different contexts.
-  - There is no associated capital investment. It is more like cultural approach, similar to the urban design - of thinking about the bigger picture before jumping into solution.
+  - There is no associated capital investment in *"building"*. It is more like cultural approach, similar to the urban design - of thinking about the bigger picture before jumping into solution.
+  - Enterprise Data Platform could be also a vendor data platform as Hortonworks (HDP), Cloudera (CDH), running on infrastructure as a service (IaaS). In this case there is a need of integration effort to turn it to platform as a service (PaaS):
+    `IaaS + Vendor Data Platform = PaaS`
+    - To make complete Enterprise Data Platform solution blueprints (reference architecture) must be added.
 - The Data Platform has a Business Case
   - There is no business case behind the Data Platform. As there is no business case behind the urban design. At least there is no explicit, immediate business case.
   - The difference between having a data platform defined and not having it is in what data solutions will look like, how easy it will be to add new solutions, combine and grow/extend existing solutions, maintain and keep updated the solutions and the whole technology stack.
@@ -28,6 +33,8 @@ typora-root-url: ..\
 * Data Platform (Foundation) defines services and architectural blueprints necessary to approach common business problem scenarios thus making sure data solutions are feasible, cost effective and could grow to extend the solution.
 
 * Data Platform is like Lego blocks design - a set of blocks (services) which fit and collaborate so that they could be used to build virtually everything.
+
+* Having a Data Platform enables capacity planning.
 
 * Using reusable processing components, packaged in a data platform enables end-to-end platform governance and data stewardship.
 
@@ -48,7 +55,6 @@ typora-root-url: ..\
 * The Data Platform lays the architectural foundation for IT solutions. Are you so rich to afford yourself building a solution without an architecture?
 
   ![Flooded living room in India]({{ site.baseurl }}/assets/blog/flooded-living-room-india.jpg){: width="500px" }
-
 
 
 
