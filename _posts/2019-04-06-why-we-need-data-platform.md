@@ -6,8 +6,6 @@ typora-root-url: ..\
 
 
 
-This discussion builds on [What is a data platform]({% link _posts/2019-04-06-what-is-data-platform.md %})?
-
 ## Data Platform Benefits Brainstorming
 
 * Do not reinvent the bicycle!
@@ -40,7 +38,10 @@ This discussion builds on [What is a data platform]({% link _posts/2019-04-06-wh
 
   ![Flooded living room in India]({{ site.baseurl }}/assets/blog/flooded-living-room-india.jpg){: width="500px" }
 
-* 
+
+
+
+## === Work in Ideation ====
 
 ## Who Should be Interested?
 
