@@ -6,6 +6,17 @@ typora-root-url: ..\
 
 
 
+## Data Platform Miss-Understanding
+
+- Organizations *Need to Build* Data Platform
+  - This statement implies that organizations need to build some asset. The Data Platform (Foundation) is Architectural artefact. It is not built. It is designed. Platform components are created/instantiated from the platform when needed by a particular solution. Created components can than be reused in different contexts.
+  - There is no associated capital investment. It is more like cultural approach, similar to the urban design - of thinking about the bigger picture before jumping into solution.
+- The Data Platform has a Business Case
+  - There is no business case behind the Data Platform. As there is no business case behind the urban design. At least there is no explicit, immediate business case.
+  - The difference between having a data platform defined and not having it is in what data solutions will look like, how easy it will be to add new solutions, combine and grow/extend existing solutions, maintain and keep updated the solutions and the whole technology stack.
+
+
+
 ## Data Platform Benefits Brainstorming
 
 * Do not reinvent the bicycle!
