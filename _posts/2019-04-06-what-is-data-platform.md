@@ -6,6 +6,9 @@ links:
      url: https://www.techopedia.com/definition/29951/big-data-platform
 ---
 
+## !!! Work in Progress !!!
+
+
 
 Big data platform is a type of IT solution that combines the features and capabilities of several big data application and utilities within a single solution.
 

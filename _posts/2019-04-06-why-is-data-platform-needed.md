@@ -1,5 +1,5 @@
 ---
-title: "Why Data Platform Needed"
+title: "Why Do We Need A Data Platform"
 date: 2019-04-06
 typora-root-url: ..\
 ---
@@ -14,7 +14,11 @@ This discussion builds on [What is a data platform]({% link _posts/2019-04-06-wh
 
 * Do not repeat yourself - use a data platform!
 
-* The Data Platform is the foundational framework which data intensive applications built on - well designed platform results in better solution quality.
+* Data Platform is the foundational framework which data intensive applications built on - well designed platform results in better solution quality.
+
+* Data Platform (Foundation) defines services and architectural blueprints necessary to approach common business problem scenarios thus making sure data solutions are feasible, cost effective and could grow to extend the solution.
+
+* Data Platform is like Lego blocks design - a set of blocks (services) which fit and collaborate so that they could be used to build virtually everything.
 
 * Using reusable processing components, packaged in a data platform enables end-to-end platform governance and data stewardship.
 
@@ -30,11 +34,11 @@ This discussion builds on [What is a data platform]({% link _posts/2019-04-06-wh
 
 * Data solution without platform is like a building without architecture. Enterprise without data platform is like city without urban design.
 
-  ![houses-in-hole](/assets/blog/houses-collapse-in-hole.jpg){: width="500px" }
+  ![houses-in-hole]({{ site.baseurl }}/assets/blog/houses-collapse-in-hole.jpg){: width="500px" }
 
 * The Data Platform lays the architectural foundation for IT solutions. Are you so rich to afford yourself building a solution without an architecture?
 
-  ![Flooded living room in India](/assets/blog/flooded-living-room-india.jpg){: width="500px" }
+  ![Flooded living room in India]({{ site.baseurl }}/assets/blog/flooded-living-room-india.jpg){: width="500px" }
 
 * 
 
