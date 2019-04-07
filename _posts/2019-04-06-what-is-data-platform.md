@@ -11,7 +11,7 @@ draft:
 
 ## (Big) Data Platform Definition
 
-(Big) Data Platform generally is Platform as a Service (PaaS) type of IT solution. It provides features and capabilities for big data storage, compute services, query, big data management, data governance, business intelligence, etc. It also supports custom development, querying and integration with other systems. The primary benefit behind a big data platform is to reduce the complexity of multiple vendors/ solutions into a one cohesive solution.
+(Big) Data Platform generally is Platform as a Service (PaaS) type of IT solution. It provides features and capabilities for big data storage, big data processing, metadata management, schema on read, query, data governance, business intelligence, encryption etc. It also supports custom development, querying and integration with other systems. The primary benefit behind a big data platform is to reduce the complexity of multiple vendors/ solutions into a one cohesive and consistent solution.
 
 Enterprise Data Platform defines solution blueprints as guidelines for creating and implementing various solution scenarios using the (Big) Data Platform capabilities.
 
