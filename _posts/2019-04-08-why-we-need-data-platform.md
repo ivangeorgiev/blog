@@ -1,10 +1,11 @@
 ---
 title: "Why Do We Need A Data Platform"
 date: 2019-04-08
+last_updated: 2019-04-08 9:32AM CET
 typora-root-url: ..\
 ---
 
-
+Last updated: {{ page.last_updated }}
 
 Some overview on the Enterprise Data Platform was given in the previous post [What is a data platform]({{ site.baseurl }}{% post_url 2019-04-06-what-is-data-platform %})?
 
@@ -22,13 +23,37 @@ Some overview on the Enterprise Data Platform was given in the previous post [Wh
 
 
 
+## Benefits Summary
+
+* Agility
+  * Ability to add capabilities on-demand.
+  * Ability to replace out-of-date technologies.
+  * Ability to scale.
+* Improve for data solutions quality.
+* Data platform focuses on the architecture, thus taking care of the quality attributes (-ilities) of the system, running the solutions.
+* Standardization and reusability through conventions, best practices, reusable components and solution blueprints.
+* Improves / Enables data governance and data stewardship.
+* Solutions portability across service providers - cloud: AWS, Azure, GCP etc. on-premise or hybrid.
+* Template driven workflow generation reduces time-to-market and associated implementation effort.
+* Automated deployment, monitoring and self-healing improve SLAs and lowers operations costs.
+* Separation of business logic and implementation allows for involvement of people with strong business knowledge into the solution process.
+* Answers important questions before building solution:
+  * What capacity my solution will have?
+  * What I would need in order to scale?
+  * How I would extend the solution to fulfil new requirements?
+  * What would be the cost of the solution?
+
 ## Data Platform Benefits Brainstorming
 
 * Do not reinvent the bicycle!
 
 * Do not repeat yourself - use a data platform!
 
-* Data Platform is the foundational framework which data intensive applications built on - well designed platform results in better solution quality.
+* The digital economy has already arrived and will expand - Data Platform is a digital transformation enabler.
+
+* Capable of ingesting, transforming and analyzing data from any variety (structured, semi-structured, unstructured - images, audio files etc.), velocity (batch or stream) and volume.
+
+* Data Platform is the foundational framework which data intensive applications are built on - well designed platform results in better solution quality.
 
 * Data Platform (Foundation) defines services and architectural blueprints necessary to approach common business problem scenarios thus making sure data solutions are feasible, cost effective and could grow to extend the solution.
 
