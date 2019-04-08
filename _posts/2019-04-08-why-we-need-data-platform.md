@@ -2,6 +2,9 @@
 title: "Why Do We Need A Data Platform"
 date: 2019-04-08
 last_updated: 2019-04-08 10:12AM CET
+links:
+  - title: "Why You Need a (Big) Data Management Platform for Your Digital Transformation"
+  - url: "https://datafloq.com/read/why-you-need-big-data-management-platform/3641"
 typora-root-url: ..\
 ---
 
@@ -17,6 +20,7 @@ Some overview on the Enterprise Data Platform was given in the previous post [Wh
   - Capabilities are added to the system incrementally, on-demand and by significance/priority.
   - Out-of-date technologies are easily upgraded or replaced.
   - The system easily scales out to fulfil solution needs.
+  - All data is stored and made available for analysis, to accommodate solution changes without up-stream changes, or to share with another solution.
 - Data platform focuses on the architecture, thus taking care of the quality attributes (-ilities) of the system, running your solutions.
 - Standardization and reusability through conventions, best practices, reusable components and solution blueprints.
 - Improves / Enables data governance and data stewardship through reducing/eliminating custom execution logic and utilizing DevOps pipelines.
