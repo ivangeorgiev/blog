@@ -38,6 +38,7 @@ Some overview on the Enterprise Data Platform was given in the previous post [Wh
   - Enterprise Data Platform could be also a vendor data platform as Hortonworks (HDP), Cloudera (CDH), running on infrastructure as a service (IaaS). In this case there is a need of integration effort to turn it to platform as a service (PaaS):
     `IaaS + Vendor Data Platform = PaaS`
     - To make complete Enterprise Data Platform solution blueprints (reference architecture) must be added.
+  - Organization builds a system which runs one or more solution. To build the system various components from the Data Platform are instantiated through integration of pre-existing (e.g. third party) components or implementing component interface as defined by the Data Platform.
 - The Data Platform has a Business Case
   - There is no business case behind the Data Platform. As there is no business case behind the urban design. At least there is no explicit, immediate business case.
   - The difference between having a data platform defined and not having it is in what data solutions will look like, how easy it will be to add new solutions, combine and grow/extend existing solutions, maintain and keep updated the solutions and the whole technology stack.
