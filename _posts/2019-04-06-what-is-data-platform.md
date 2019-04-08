@@ -17,7 +17,7 @@ Enterprise Data Platform defines solution blueprints as guidelines for creating 
 
 ### Approaches towards (Big) Data Platform
 
-Following the separation of concerns principle, logically coherent capabilities are provided by loosely coupled components, usually third party tools (services). The tools are combined so that they collaborate and make together a consistent Platform as a Service (PaaS). The Enterprise Data Platform could be described using following layers:
+Following the separation of concerns principle, cohesive capabilities are provided by loosely coupled components, usually third party tools (services). These components are integrated so that they collaborate and make together a consistent Platform as a Service (PaaS). The Enterprise Data Platform could be described using following layers:
 
 1. Core capabilities (Core platform) implemented as integrated set of third party components.
    1. Core platform is usually deployed using some form of templates (Ansible, Ambari Blueprints, Azure Resource Manager templates etc.)
