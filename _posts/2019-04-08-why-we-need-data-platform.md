@@ -1,13 +1,34 @@
 ---
 title: "Why Do We Need A Data Platform"
 date: 2019-04-08
-last_updated: 2019-04-08 9:32AM CET
+last_updated: 2019-04-08 10:12AM CET
 typora-root-url: ..\
 ---
 
 Last updated: {{ page.last_updated }}
 
 Some overview on the Enterprise Data Platform was given in the previous post [What is a data platform]({{ site.baseurl }}{% post_url 2019-04-06-what-is-data-platform %})?
+
+## Benefits Summary
+
+- Defining a Data Platform for the enterprise is what Urban Design is for the modern society - prepares the wild landscape, gives certainty, stability and predictability so that creative datapreneurs could build their solutions.
+- Data Platform is agile
+  - Capabilities are added to the system incrementally, on-demand and by significance/priority.
+  - Out-of-date technologies are easily upgraded or replaced.
+  - The system easily scales out to fulfil solution needs.
+- Data platform focuses on the architecture, thus taking care of the quality attributes (-ilities) of the system, running your solutions.
+- Standardization and reusability through conventions, best practices, reusable components and solution blueprints.
+- Improves / Enables data governance and data stewardship through reducing/eliminating custom execution logic and utilizing DevOps pipelines.
+- Solutions portability across service providers - cloud: AWS, Azure, GCP etc. on-premise or hybrid.
+- Template driven workflow generation reduces time-to-market and associated implementation effort.
+- Automated deployment, monitoring and self-healing improve SLAs and lowers operations costs.
+- Separation of business logic and execution logic allows for involvement of people with strong business knowledge into the solution process.
+- Answers important questions before building solution:
+  - What is the capacity of the system, running my solution?
+  - How I could scale my solutions?
+  - How I would extend the solution to fulfil new requirements?
+  - What would be the cost of the solution?
+  - How I could solve typical, industry-specific problems?
 
 ## Data Platform Miss-Understanding
 
@@ -22,26 +43,6 @@ Some overview on the Enterprise Data Platform was given in the previous post [Wh
   - The difference between having a data platform defined and not having it is in what data solutions will look like, how easy it will be to add new solutions, combine and grow/extend existing solutions, maintain and keep updated the solutions and the whole technology stack.
 
 
-
-## Benefits Summary
-
-* Agility
-  * Ability to add capabilities on-demand.
-  * Ability to replace out-of-date technologies.
-  * Ability to scale.
-* Improve for data solutions quality.
-* Data platform focuses on the architecture, thus taking care of the quality attributes (-ilities) of the system, running the solutions.
-* Standardization and reusability through conventions, best practices, reusable components and solution blueprints.
-* Improves / Enables data governance and data stewardship.
-* Solutions portability across service providers - cloud: AWS, Azure, GCP etc. on-premise or hybrid.
-* Template driven workflow generation reduces time-to-market and associated implementation effort.
-* Automated deployment, monitoring and self-healing improve SLAs and lowers operations costs.
-* Separation of business logic and implementation allows for involvement of people with strong business knowledge into the solution process.
-* Answers important questions before building solution:
-  * What capacity my solution will have?
-  * What I would need in order to scale?
-  * How I would extend the solution to fulfil new requirements?
-  * What would be the cost of the solution?
 
 ## Data Platform Benefits Brainstorming
 
