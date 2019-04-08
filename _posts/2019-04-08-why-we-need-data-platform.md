@@ -11,7 +11,7 @@ Some overview on the Enterprise Data Platform was given in the previous post [Wh
 
 ## Benefits Summary
 
-- Defining a Data Platform for the enterprise is what Urban Design is for the modern society - prepares the wild landscape, gives certainty, stability and predictability so that creative datapreneurs could build their solutions.
+- Defining a Data Platform for the enterprise is what Urban Design is for the modern society - prepares the wild landscape, gives certainty, stability and predictability so that creative datapreneurs could build high-quality solutions with predictive cost.
 - Data Platform is agile
   - Capabilities are added to the system incrementally, on-demand and by significance/priority.
   - Out-of-date technologies are easily upgraded or replaced.
