@@ -115,3 +115,10 @@ In this tutorial I showed you:
 * develop your WebApp by modifying code in GitHub
 
 The development approach I showed you is just for demo purposes. I would not suggest you modifying files directly in GitHub and committing to `master` branch directly. The process of developing WebApp (the Software Development Lifecyle - SDLC) is a very broad and interesting topic on itself and goes far beyond the goal of this tutorial.
+
+## Resources
+
+* [Create a Python app in Azure App Service on Linux](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-python)
+  Official Azure tutorial on creating Python app in Azure, using Azure CLI
+* [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) Tutorial from Atlassian
+* [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
