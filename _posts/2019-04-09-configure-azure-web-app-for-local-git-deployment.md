@@ -177,4 +177,5 @@ I would suggest that you do not install requirements globally, but use Python vi
 * [Create a PHP web app in Azure](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-php)
   Official Azure tutorial on creating PHP app in Azure, using Azure CLI and local Git
 * Python [Virtual Environments and Packages](https://docs.python.org/3/tutorial/venv.html)
+* Python [Flask Quick Start](http://flask.pocoo.org/docs/1.0/quickstart/) Documentation
 
