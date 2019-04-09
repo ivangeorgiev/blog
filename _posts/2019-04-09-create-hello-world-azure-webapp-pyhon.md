@@ -122,3 +122,4 @@ The development approach I showed you is just for demo purposes. I would not sug
   Official Azure tutorial on creating Python app in Azure, using Azure CLI
 * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) Tutorial from Atlassian
 * [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+

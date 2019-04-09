@@ -8,7 +8,7 @@ title: Cooking
   {% if category[0] == 'recipe' %}
   <ul>
     {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a><br /><em>{{ post.tags | join: ", " }}</em></li>
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a><br /><em>{{ post.tags | join: ", " }}</em></li>
     {% endfor %}
   </ul>
   {% endif %}
