@@ -31,7 +31,7 @@ Following the separation of concerns principle, cohesive capabilities are provid
    1. Stream (Real-time) Processing 
    2. Batch Processing
    3. Machine Learning - Real-time recommendation API
-   4. Enterprise Analytics and Reporting
+   4. Enterprise Data Analytics and Reporting
 
 The most important part of the Big Data Platform approach is the Core Platform which is the base, fundamental layer. The selection and implementation of this layer determines the qualities of the solutions. There are different approaches towards the Core Platform.
 
